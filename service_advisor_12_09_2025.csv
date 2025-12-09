@@ -1,4 +1,4 @@
-﻿ServiceWriter,PM,ROCount,Hours,HRS/RO,ELR,Retail,PerRO,Cost,Gross,Gross%,Discounts
+ServiceWriter,PM,ROCount,Hours,HRS/RO,ELR,Retail,PerRO,Cost,Gross,Gross%,Discounts
 Lauren Bell,C,3,2.6,0.87,52.87,137.45,45.82,0,137.45,100,
 Sarah Weed,C,25,28.7,1.15,112.14,3218.52,128.74,890.4,2328.12,72.3,
 ,I,13,50.2,3.86,176.99,8884.8,683.45,2034,6850.8,77.1,
@@ -12,3 +12,4 @@ All Service Writers,C,79,76.9,0.97,105.29,8096.62,102.49,2142.8,5953.82,73.5,
 ,I,17,61.9,3.64,184.45,11417.2,671.6,2463.1,8954.1,78.4,
 ,W,32,24.2,0.76,161,3896.27,121.76,839,3057.27,78.5,
 Grand Totals:,,106,163,1.54,143.62,23410.09,220.85,5444.9,17965.19,76.7,
+
